@@ -219,7 +219,7 @@ h3 {
     box-shadow: 10px 10px 20px rgba(123, 31, 2, 0.2);
     border-radius: 10px;
     max-width: 600px;
-    max-height: 160px;
+    height: fit-content;
     padding: 35px 10px;
     position: relative;
     margin-bottom: 65px;
